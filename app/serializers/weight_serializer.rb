@@ -1,3 +1,4 @@
 class WeightSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :date, :time, :value, :unit
+  has_one :kitten
 end

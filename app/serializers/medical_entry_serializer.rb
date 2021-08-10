@@ -1,3 +1,3 @@
 class MedicalEntrySerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :title, :date, :time, :notes
 end

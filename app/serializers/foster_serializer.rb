@@ -1,3 +1,3 @@
 class FosterSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :first_name, :last_name, :picture
 end
