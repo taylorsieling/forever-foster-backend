@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Entry: MyString
+  title: MyString
+  date: 2021-08-09
+  time: 2021-08-09 19:02:11
+  notes: MyString
+  kitten: one
+
+two:
+  Entry: MyString
+  title: MyString
+  date: 2021-08-09
+  time: 2021-08-09 19:02:11
+  notes: MyString
+  kitten: two

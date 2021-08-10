@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  sex: MyString
+  dob: 2021-08-09
+  breed: MyString
+  color: MyString
+  pattern: MyString
+  altered: false
+  microchipped: false
+  status: MyString
+  bio: MyString
+  portrait_url: MyString
+  litter: one
+
+two:
+  name: MyString
+  sex: MyString
+  dob: 2021-08-09
+  breed: MyString
+  color: MyString
+  pattern: MyString
+  altered: false
+  microchipped: false
+  status: MyString
+  bio: MyString
+  portrait_url: MyString
+  litter: two
